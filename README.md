@@ -16,7 +16,10 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `app/page.tsx`.
+let me specify the problem which i faced for so long :-
+So, there's one thing on page.tsx of systems where theres a type error of Param which i tried my best to fix , but i couldnt , whenever i fix that thing it crashes when i run npm run build. If someone can tell me how to fix it i would be very grateful to you.
+You can reach me through linkedin or my email. 
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
