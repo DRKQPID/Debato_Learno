@@ -1,0 +1,7 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/learning/page": "app/learning/page.js",
+  "/page": "app/page.js",
+  "/learning/[system]/[level]/page": "app/learning/[system]/[level]/page.js"
+}

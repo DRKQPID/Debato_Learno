@@ -1,0 +1,7 @@
+{
+  "/dashboard/page": "/dashboard",
+  "/_not-found/page": "/_not-found",
+  "/learning/page": "/learning",
+  "/page": "/",
+  "/learning/[system]/[level]/page": "/learning/[system]/[level]"
+}
